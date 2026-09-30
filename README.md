@@ -27,4 +27,8 @@ Modern real estate firms and PropTech companies heavily rely on structured data 
 - `fact_listings.csv`: Modeled transactional metrics data file (Listing IDs, Sizes, Cleaned Prices, Yields).
 - `dim_locality.csv`: Modeled locality dimensional configuration file (Locality ID, Locality Name, City).
   
+  ## 📊 Final Dashboard Layout Preview
+![Bangalore Real Estate Market Analytics Dashboard](dashboard_preview.png)
+
+  
 
